@@ -30,7 +30,7 @@ The dataset (`HR Analytics.zip`) includes employee information such as:
 
 | File Name                 | Description                                |
 |---------------------------|--------------------------------------------|
-| HR Analytics Dashboard.pdf | PDF export of the Power BI HR Analytics dashboard showcasing all visualizations and insights |
+| HR ANALYTICS_.pdf | PDF export of the Power BI HR Analytics dashboard showcasing all visualizations and insights |
 | HR Analytics.zip           | Compressed dataset used for the analysis (CSV format inside) |
 | README.md                 | This documentation file                     |
 | LICENSE                   | MIT License file                            |
